@@ -1,1 +1,1 @@
-# vr-design
+# VR-design
